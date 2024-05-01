@@ -1,7 +1,7 @@
 # Cinemx
 A complete React js movie application.
 
-**live demo: [https://cinemx.vercel.app/](https://cinemx.vercel.app/)**
+**live demo: https://react-cinemx-movie-website.netlify.app**
 
 # Requirements
 
